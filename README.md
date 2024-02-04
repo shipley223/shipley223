@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shipley223
 - 👀 I’m interested in speech enhancement, speech recognition and deep learning
 - 🌱 I’m currently learning speech enhancement
-- 💞️ I’m looking to collaborate on acoustic echo cancellation, denoising, dereverberation, beamforming, DOA estimation, and deep learning based speech enhancement
+- 💞️ I’m looking to collaborate on deep learning based speech enhancement, acoustic echo cancellation, denoising, dereverberation, beamforming and DOA estimation,  
 - 📫 How to reach me xiepeng223@outlook.com
 
 There is a popular saying in Zen Buddhism:
